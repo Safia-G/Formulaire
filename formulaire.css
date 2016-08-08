@@ -1,0 +1,165 @@
+body {
+  margin-right: 200px;
+  background-size: cover;
+}
+h1 {
+  color: white;
+  margin-left: 150px;
+  font-size: 50px;
+  text-align: center;
+}
+.co {
+  text-align: center;
+  color: white;
+  text-decoration: underline;
+  font-family: sans-serif;
+}
+.tout {
+  border: 1px solid black;
+  width: 300px;
+  margin-left: 150px;
+  background-color: rgba(0, 50, 120, 0.3);
+  margin-top: 100px;
+  border-radius: 10px;
+}
+
+.bouton a {
+  display:block;
+  width:150px;
+  text-align:center;
+  vertical-align:middle;
+  text-decoration:none;
+  margin-left: 80px;
+  color:#555555;
+  font-weight:bold;
+	height:30px;
+	line-height:29px;
+	margin-bottom:14px;
+	text-decoration:none;
+  background: white;
+  border-radius: 20px;
+}
+.id {
+  margin-right: 123px;
+  text-align: center;
+  margin-top: 30px;
+  margin-left: 50px;
+  width: 200px;
+  color: white;
+  font-weight: bold;
+  font-family: monospace;
+  font-size: 15px;
+}
+.mdp {
+  margin-right: 123px;
+  text-align: center;
+  margin-top: 40px;
+  margin-left: 50px;
+  width: 200px;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: monospace;
+}
+.memo {
+  margin-right: 114px;
+  text-align: center;
+  margin-top: 50px;
+  margin-left: 50px;
+  width: 200px;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: monospace;
+}
+.identification {
+  margin-left: 2px;
+}
+#test {
+  cursor: pointer;
+}
+.valider {
+  text-align: center;
+}
+.new {
+  border: 1px solid black;
+  width: 300px;
+  margin-left: 1000px;
+  background-color: rgba(0, 50, 120, 0.3);
+  margin-top: -270px;
+  border-radius: 10px;
+  margin-right: 923px;
+  color: white;
+}
+.new a {
+  color: white;
+  text-align: center;
+  font-family: sans-serif;
+  text-align: center;
+  margin-left: 20px;
+}
+.co1 {
+  text-align: center;
+  color: white;
+  text-decoration: underline;
+  font-family: sans-serif;
+}
+.tout1 {
+  border: 1px solid black;
+  width: 300px;
+  margin-left: 950px;
+  background-color: rgba(0, 50, 120, 0.3);
+  margin-top: 90px;
+  border-radius: 10px;
+}
+.id1 {
+  margin-right: 123px;
+  text-align: center;
+  margin-top: 30px;
+  margin-left: 50px;
+  width: 200px;
+  color: white;
+  font-weight: bold;
+  font-family: monospace;
+  font-size: 15px;
+}
+.mdp1 {
+  margin-right: 123px;
+  text-align: center;
+  margin-top: 40px;
+  margin-left: 50px;
+  width: 200px;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: monospace;
+}
+.mdp2 {
+  margin-right: 123px;
+  text-align: center;
+  margin-top: 40px;
+  margin-left: 50px;
+  width: 200px;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: monospace;
+}
+.identification1 {
+  margin-left: 2px;
+}
+h2 {
+  margin-top: 90px;
+  position: absolute;
+  color: white;
+  line-height: 30px;
+  width: 300px;
+  border-radius: 10px;
+  text-align: center;
+  border: 1px solid black;
+  margin-right: 900px;
+  margin-left: 50px;
+  font-size: 17px;
+  background-color: rgba(0, 50, 120, 0.3);
+  font-family: "Times New Roman", Serif;
+}
